@@ -13,12 +13,12 @@ Os dados foram coletados por meio do site MovieLens (movielens.umn.edu) durante 
 Utilizando esse Dataset responda as seguintes perguntas. Você deverá utilizar somente as bibliotecas padrões do python, i.e., nenhuma nova biblioteca deve ser adicionada para implementar suas soluções (isso é um warmup de python!)
 
 Encontrar:
-O(s) usuário(s) mais crítico(s) na avaliação de filmes.
-Encontrar aquele id cujas notas são, em média, as menores;
-O(s) filme(s) mais mal avaliado(s) pelos usuários.
-O(s) filme(s) mais bem avaliado(s) pelos usuários.
-Média de avaliação para cada gênero de filmes;
-Avaliação média de filmes por ano.
-Listar qual o ano com a melhor média de avaliação de filmes;
-Qual a ocupação mais propensa a dar más avaliações a filmes;
-Encontrar a média de avaliação para cada ocupação de usuário e mostrar os menores e maiores valores
+- O(s) usuário(s) mais crítico(s) na avaliação de filmes.
+- Encontrar aquele id cujas notas são, em média, as menores;
+- O(s) filme(s) mais mal avaliado(s) pelos usuários.
+- O(s) filme(s) mais bem avaliado(s) pelos usuários.
+- Média de avaliação para cada gênero de filmes;
+- Avaliação média de filmes por ano.
+- Listar qual o ano com a melhor média de avaliação de filmes;
+- Qual a ocupação mais propensa a dar más avaliações a filmes;
+- Encontrar a média de avaliação para cada ocupação de usuário e mostrar os menores e maiores valores
